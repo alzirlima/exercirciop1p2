@@ -1,0 +1,3 @@
+<script>
+    qualquer mudança
+</script>
